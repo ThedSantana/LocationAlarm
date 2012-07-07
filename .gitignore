@@ -1,6 +1,9 @@
 build/
 .project
 
+# temporary files
+*~
+
 # built application files
 *.apk
 *.ap_
