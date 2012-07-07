@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">GpsAlarm</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Map</string>
+    <string name="maps_api_key">0xEAPEToHQ1NbNSjY_CDjXk4OaaW0SuHAkNVf6Q</string>
+
+</resources>
