@@ -9,5 +9,11 @@
         android:layout_height="fill_parent"
         android:apiKey="@string/maps_api_key"
         android:clickable="true" />
-
+    
+    <ImageView
+        android:id="@+id/drag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/marker"
+        android:visibility="gone" />
 </RelativeLayout>
